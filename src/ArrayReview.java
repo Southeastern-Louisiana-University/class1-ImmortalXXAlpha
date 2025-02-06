@@ -1,3 +1,5 @@
+package src;
+
 public class ArrayReview {
     public static void main(String[] args) {
         double doubleArray[];
